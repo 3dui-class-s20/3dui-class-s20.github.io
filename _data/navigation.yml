@@ -1,0 +1,43 @@
+main:
+- title: Instructors
+  url: /instructors/
+  excerpt: Instructors and TAs
+  image: /assets/images/shark-table-360x240.png 
+- title: Syllabus
+  url: /syllabus/
+  excerpt: Details you need to know
+  image: /assets/images/keep-calm-its-in-the-syllabus.png
+- title: Schedule
+  url: /schedule/
+  excerpt: Schedule for the class
+  image: /assets/images/schedule-teaser-360x240.png
+- title: Resources
+  url: /resources/
+  excerpt: Resources for the class
+  image: /assets/images/Octocat.png
+- title: Github
+  url: https://github.com/3dui-class/
+  excerpt: Source code repository for the site
+  image: /assets/images/Octocat.png
+
+side:
+  - title: Instructors and TAs
+    url: /instructors/
+  - title: Resources
+    url: /resources/
+    children:
+      - title: Canvas
+        url: https://gatech.instructure.com/courses/114698
+      - title: OneNote
+        url: https://gtvault.sharepoint.com/sites/3DUISpring2020/SiteAssets/3DUI%20Spring%202020%20Notebook
+      - title: Teams
+        url: https://teams.microsoft.com/_#/school//?ctx=teamsGrid
+  - title: Site Links
+    children:
+      - title: All Posts
+        url: /posts/
+      - title: Announcements
+        url: /categories/#announcements
+      - title: Assignments
+        url: /categories/#assignmnets
+  - 
