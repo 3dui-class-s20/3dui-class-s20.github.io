@@ -37,7 +37,7 @@ For the initial offering in the spring of 2020, students will do assignments and
  
 Students must have experience doing 3D programming.  Background in HCI is a plus.
  
-For undergraduates in CS4803-3DUI, CS 3451 is required, and CS 3750 is recommended (but not required).  This class will count as a pick-list course for either the Media or People Threads.  I taught CS 3451 this past fall, the material is on [github here](https://cs3451.github.io).
+For undergraduates in CS4803-3DUI, CS 3451 is required, and CS 3750 is recommended (but not required).  This class will count as a pick-list course for either the Media or People Threads.  I taught CS 3451 this past fall, the material is on github [here](https://cs3451.github.io).
  
 For graduate students in CS8803-3DUI, either CS6491 or an undergraduate course in computer graphics is required, and a graduate or undergraduate HCI class in recommended (but not required).  This class will count as an elective in either the Computer Graphics or HCI Specializations.
  

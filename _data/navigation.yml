@@ -11,10 +11,10 @@ main:
   url: /schedule/
   excerpt: Schedule for the class
   image: /assets/images/schedule-teaser-360x240.png
-- title: Resources
-  url: /resources/
-  excerpt: Resources for the class
-  image: /assets/images/Octocat.png
+- title: Project
+  url: /project/
+  excerpt: Project Information
+  image: /assets/images/puppy-logo-120x120.png
 - title: Github
   url: https://github.com/3dui-class/
   excerpt: Source code repository for the site

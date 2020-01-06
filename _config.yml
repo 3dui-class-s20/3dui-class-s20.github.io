@@ -19,6 +19,7 @@ description: 3D User Interfaces
 email: blair@gatech.edu
 twitter_username: blairmacintyre
 github_username: blairmacintyre
+github: [metadata]
 minimal_mistakes_skin: dark
 search: true
 repository: 3dui-class/3dui-class.github.io
@@ -28,8 +29,8 @@ name: "Blair MacIntyre, Georgia Tech"
 
 logo: /assets/images/puppy-logo-120x120.png # 120x120 px default image used for Twitter summary card
 teaser: /assets/images/shark-table-360x240.png # 400x250 px default teaser image used in image archive grid
-url: https://3dui-class.github.io
-#url: http://localhost:4000
+#url: https://3dui-class.github.io
+url: http://localhost:4000
 
 # Build settings
 markdown: kramdown
@@ -109,7 +110,7 @@ defaults:
       related: true
       sidebar:
       - title: Time and Place
-        text: "TTh, 12:00 – 1:15, Klaus 1443"
+        text: "TTh, 12:00 – 1:15, CCB 102"
         nav: "side"
   # _pages
   - scope:
@@ -122,7 +123,7 @@ defaults:
       classes: wide
       sidebar:
       - title: Time and Place
-        text: "TTh, 12:00 – 1:15, Klaus 1443"
+        text: "TTh, 12:00 – 1:15, CCB 102"
         nav: "side"
 
 category_archive:

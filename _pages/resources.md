@@ -8,7 +8,7 @@ permalink: /resources/
 
 I will be using a variety of technology to support various parts of running this class.
 
-We will use Github Classroom to distribute and collect assignments.  The github site is the https://github.com/3dui-class organization. Github classroom takes care of creating a private repository for each student when they check out an assignment, and the TAs and Instructor will be given access.  Github is also used for this site.
+We will use Github Classroom to distribute and collect assignments.  The github site is the [github.com/3dui-class](https://github.com/3dui-class) organization. Github classroom takes care of creating a private repository for each student when they check out an assignment, and the TAs and Instructor will be given access.  Github is also used for this site.
 
 Canvas will be used for posting grades, or for sharing other private content (such as the link to the discord server, below).  Most content will be shared here on github.
 
@@ -18,8 +18,8 @@ We will use Microsoft Teams for more synchronous discussion. A OneNote Course No
 
 # Technology Resources
 
-There are vast amounts of resources for Babylon, and Typescript on the web, starting with the documentation and examples on https://www.babylonjs.com/ and https://typescriptlang.org.  Also notice that both are open source, and hosted at https://github.com/BabylonJS/Babylon.js and https://github.com/Microsoft/TypeScript. The repositories have links to various resources, but also discussions galore in the issues.
+There are vast amounts of resources for Babylon, and Typescript on the web, starting with the documentation and examples on [babylonjs.com](https://www.babylonjs.com/) and [typescriptlang.org](https://typescriptlang.org).  Also notice that both are open source, and hosted at [github.com/BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) and [github.com/Microsoft/TypeScript](https://github.com/Microsoft/TypeScript). The repositories have links to various resources, but also discussions galore in the issues.
 
-Similarly, there are plenty of WebGL resources out there.  A great starting point is https://webglfundamentals.org/.  
+Similarly, there are plenty of WebGL resources out there.  A great starting point is [webglfundamentals.org](https://webglfundamentals.org/).  
 
-If you like video, searching for Babylon, Typescript or WebGL (or any other web related topic) on https://channel9.msdn.com yields a lot of different videos from over the years.
+If you like video, searching for Babylon, Typescript or WebGL (or any other web related topic) on [channel9.msdn.com](https://channel9.msdn.com) yields a lot of different videos from over the years.
