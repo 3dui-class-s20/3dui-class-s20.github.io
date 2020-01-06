@@ -1,6 +1,6 @@
 ---
 title: CS 4803/8803 3DU Grad Project Overview
-permalink: /grad-project/
+permalink: /project/
 layout: single
 classes: wide
 ---
