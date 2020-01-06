@@ -10,6 +10,7 @@ classes: wide
 
 - [Outline](#outline)
 - [Project Overview](#project-overview)
+- [Before you start: IRB](#before-you-start-irb)
 - [Milestone 0: Preliminary project proposal](#milestone-0-preliminary-project-proposal)
 - [Milestone 1: Final project proposal + literature review](#milestone-1-final-project-proposal--literature-review)
 - [Milestone 2: Implementation](#milestone-2-implementation)
@@ -44,7 +45,13 @@ The breakdown of deliverables and grading for the project is given below.
 
 Please see the online class schedule for due dates.
 
-# 3. Milestone 0: Preliminary project proposal
+# 3. Before you start: IRB
+
+Students can only start working on their project when they have provided evidence for successful completion of relevant IRB (Institutional Review Board, which is concerned with ethical approvals for research conducted at Georgia Tech) training (CITI certificate(s) as outlined in the [syllabus](/syllabus)).
+
+All projects are by definition class-room (educational) projects and as long as you adhere to good academic practice as attested through a successful IRB training, they are exempt from IRB approval. However, without proper IRB approval (if required by a project) the results of a project can NOT be published. Publication (for example, in form of a scientific article) typically requires IRB approval (depending on the project). Teams aiming for publication of their project results should discuss this with the professor.
+
+# 4. Milestone 0: Preliminary project proposal
 
 Your team should begin brainstorming on possible project ideas early in the semester. Please look at the project ideas page and look ahead in the class topics and readings, as well as browse relevant conference proceedings. Other classes you're currently taking, or have taken, might also provide inspiration. You're welcome to send initial project ideas to the instructor early in the semester for feedback.
 
@@ -54,7 +61,7 @@ The deliverable for this phase of the project is a two-page proposal in PDF form
 
 This deliverable should be submitted by only one of the team members. Be sure to give your project a title and list the names of all partners on the team in your submission. This submission will not be graded, it's just to give an early opportunity for you to get formal feedback on your project idea.
  
-# 4. Milestone 1: Final project proposal + literature review
+# 5. Milestone 1: Final project proposal + literature review
 
 In this milestone you'll submit your final project proposal. This written document should incorporate any feedback provided by the instructor or TA on the preliminary proposal, and should be a polished and detailed description of your motivation as well as what exactly you will deliver at the end of the semester.
 
@@ -74,7 +81,7 @@ This submission will count for 20 points in the project grade. Grading will be b
 - Format. Does the submission follow the required formatting guidelines? (Please don't ignore the formatting component of the grading! Following the correct format is important so that everyone is on a level playing field in terms of proposal length. My recommendation is to start writing from the template document.)
 - Quality of writing. Is the submission well written, spell-checked, etc.?
 
-# 5. Milestone 2: Implementation
+# 6. Milestone 2: Implementation
 
 Milestone 2 is the completion of the implementation of your project. As noted above, while we prefer you use web technologies if your project can be done with them, you have complete freedom in choosing the development environment (language, platform, tools) if your project requires it. The only requirement is that you be able to fully describe that development environment and make sure you have some way to demonstrate your project at the end of the semester (see Milestone 4). Note that in most cases, if you don't use web technology we won't try to run your code, especially since it may depend on software libraries, platforms, or hardware that the instructor and TA do not have access to.
 
@@ -93,7 +100,7 @@ The implementation portion of the project will count for 30 points in the overal
 
 In some cases, we may award bonus points for extreme novelty or extra "polish" (such as great graphical design, or implementation of extra features that, while not contributing to the UI portion of the work, make it more useful or finished).
  
-# 6. Milestone 3: Project Presentation and Demo
+# 7. Milestone 3: Project Presentation and Demo
 
 During the last class meetings, students will be responsible for a presentation on their project.  This will include a demonstration of your work as well as an overview of your project's motivation and implementation.
 
@@ -114,7 +121,7 @@ In this milestone we are only grading for the quality of the presentation itself
 
 You may want to do a practice talk or two in front of friends to make sure your timing is right and that your presentation does a good job of conveying your project.
  
-# 7. Milestone 4: Project Writeup
+# 8. Milestone 4: Project Writeup
 
 The final project milestone is to do a complete writeup of your project that is in the form and style of a conference research paper. This will be an 8 page (max) paper in standard ACM format, as in Milestone 1. If you wish, you can "reuse" your material from Milestone 1 in this deliverable, as appropriate (be sure to update it if your motivation, references, or other material have changed, and of course the deliverable should describe what you have done as opposed to what you plan to do). This deliverable should be submitted as a PDF document by one of the project members; be sure to list both members' names.
 
@@ -131,7 +138,7 @@ This portion of the submission is worth 30 points. The grading criteria are as f
 - Format. Does the submission follow the required formatting guidelines? (Please don't ignore the formatting component of the grading! Following the correct format is important so that everyone is on a level playing field in terms of proposal length. My recommendation is to start writing from the template document.)
 - Quality of writing. Is the submission well written, spell-checked, etc.?
  
-# 8. Teamwork Expectations
+# 9. Teamwork Expectations
 
 It should go without saying that in a team project, I expect everyone to contribute equally. This doesn't mean that everyone has to do the same job: some may take on more responsibility for the writing, others for the coding, and so forth. But it does mean that I expect each teammate to exhibit an appropriate level of professionalism, responsiveness to their teammates, and overall sharing of the obligations of the project.
 
@@ -141,7 +148,7 @@ If you feel that a member of your project team isn't carrying his or her weight,
 
 At the end of the semester, each person will complete a short "teammate assessment" form, detailing what specifically you did, what specifically your teammate(s) did, and how you feel the workload was distributed. In certain rare cases, where a strong inequity in workload or quality of work exists, overall project grades for the individual teammates involved in the project may be adjusted plus or minus up to 5 points to account for this discrepancy. In general, I do not anticipate (nor look forward to) having to do this for anyone, so please ensure that you're carrying your weight on the project.
 
-# 9. Available Resources
+# 10. Available Resources
 
 Georgia Tech has resources available that may be useful for your project. Some highlights include:
 
