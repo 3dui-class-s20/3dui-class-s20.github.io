@@ -29,8 +29,8 @@ name: "Blair MacIntyre, Georgia Tech"
 
 logo: /assets/images/puppy-logo-120x120.png # 120x120 px default image used for Twitter summary card
 teaser: /assets/images/shark-table-360x240.png # 400x250 px default teaser image used in image archive grid
-#url: https://3dui-class.github.io
-url: http://localhost:4000
+url: https://3dui-class.github.io
+#url: http://localhost:4000
 
 # Build settings
 markdown: kramdown
