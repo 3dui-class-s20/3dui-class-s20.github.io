@@ -91,7 +91,7 @@ footer:
 comments:
   provider: "utterances"
   utterances:
-    theme: "github-dark"
+    theme: "icy-dark"
     issue_term: "3dui-class/3dui-class.github.io"
 
 defaults:
