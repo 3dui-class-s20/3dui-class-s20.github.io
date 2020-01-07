@@ -8,16 +8,16 @@ classes: wide
 # 1. Outline
 <!-- TOC -->
 
-- [Outline](#outline)
-- [Project Overview](#project-overview)
-- [Before you start: IRB](#before-you-start-irb)
-- [Milestone 0: Preliminary project proposal](#milestone-0-preliminary-project-proposal)
-- [Milestone 1: Final project proposal + literature review](#milestone-1-final-project-proposal--literature-review)
-- [Milestone 2: Implementation](#milestone-2-implementation)
-- [Milestone 3: Project Presentation and Demo](#milestone-3-project-presentation-and-demo)
-- [Milestone 4: Project Writeup](#milestone-4-project-writeup)
-- [Teamwork Expectations](#teamwork-expectations)
-- [Available Resources](#available-resources)
+- [1. Outline](#1-outline)
+- [2. Project Overview](#2-project-overview)
+- [3. Before you start: IRB](#3-before-you-start-irb)
+- [4. Milestone 0: Preliminary project proposal](#4-milestone-0-preliminary-project-proposal)
+- [5. Milestone 1: Final project proposal + literature review](#5-milestone-1-final-project-proposal--literature-review)
+- [6. Milestone 2: Implementation](#6-milestone-2-implementation)
+- [7. Milestone 3: Project Presentation and Demo](#7-milestone-3-project-presentation-and-demo)
+- [8. Milestone 4: Project Writeup](#8-milestone-4-project-writeup)
+- [9. Teamwork Expectations](#9-teamwork-expectations)
+- [10. Available Resources](#10-available-resources)
 
 <!-- /TOC -->
  
