@@ -51,7 +51,7 @@ For graduate students in CS8803-3DUI, either CS6491 or an undergraduate course i
 
 We will use two textbooks, both of which are available online via Georgia Tech library subscriptions: 
 1. *3D User Interfaces, Second Edition*, by Joseph LaViola, Ernst Kruijff, Ryan McMahan, Doug Bowman, and Ivan Poupyrev. 
-Available via O'Reilly Learning [here](https://learning.oreilly.com/library/view/3d-user-interfaces/9780133390599/).
+Available via O'Reilly Learning [here](https://learning.oreilly.com/library/view/3d-user-interfaces/9780134034478/).
 2. *Understanding Virtual Reality: Interface, Application, and Design, 2nd Edition*, William R. Sherman and Alan B. Craig, 2018.
 Available via Science Direct [here](https://www.sciencedirect.com/book/9780128009659/understanding-virtual-reality).
 
