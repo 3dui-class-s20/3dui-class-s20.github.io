@@ -19,8 +19,8 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |Week|Date|Topic|Readings|Assignments|Notes|
 |:--:|---:|:-----|:----|:----|
 |1|Jan 7|Introduction to Class, [1-intro](/files/1-Introduction.pdf)| **VR pp 5-27**, **3DUI Ch 1**  | Pre-Req Collaboration Policy, Survey 1|  |
-| | 9|I History, Hardware | **VR pp 28-58**, **3DUI Ch 2** | [A0: Intro, out](https://github.com/3dui-class/s20-a0)  | |
-|2| Jan 14 | 3D UI Software Organization |  |  | |
+| | 9| Git, Typescript, Babylong, A0 | **VR pp 28-58**, **3DUI Ch 2** | [A0: Intro, out](https://github.com/3dui-class/s20-a0)  | |
+|2| Jan 14 | History, Hardware  |  |  | |
 | | 16 | 3D UI Software Organization |  |  | |
 |3|Jan 21| Output: Toolkits, Platforms, Audio |  | | |
 | | 23| Output: Toolkits, Platforms, Audio |  | | |
