@@ -1,6 +1,6 @@
 ---
 title: CS 4803/8803 3DU Grad Project Overview
-permalink: /project/
+permalink: /readings/
 layout: single
 classes: wide
 ---
@@ -8,9 +8,9 @@ classes: wide
 # 1. Outline
 <!-- TOC -->
 
-- [Outline](#outline)
-- [Books](#books)
-- [Papers](#papers)
+- [1. Outline](#1-outline)
+- [2. Books](#2-books)
+- [3. Papers](#3-papers)
 
 <!-- /TOC -->
  
