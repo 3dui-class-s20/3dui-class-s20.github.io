@@ -1,5 +1,5 @@
 ---
-title: CS 4803/8803 3DU Grad Project Overview
+title: CS 4803/8803 3DU Readings
 permalink: /readings/
 layout: single
 classes: wide
