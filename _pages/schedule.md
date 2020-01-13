@@ -22,10 +22,10 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | | 9| Git, Typescript, Babylong, A0 | **VR pp 28-58**, **3DUI Ch 2** | [A0: Intro, out](https://github.com/3dui-class/s20-a0)  | |
 |2| Jan 14 | History, Hardware  |  |  | |
 | | 16 | 3D UI Software Organization |  |  | |
-|3|Jan 21| Output: Toolkits, Platforms, Audio |  | | |
-| | 23| Output: Toolkits, Platforms, Audio |  | | |
+|3|Jan 21| Output: Toolkits, Platforms|  | | |
+| | 23| Output: Toolkits, Platforms |  | | |
 |4|Jan 28| Input  | |  | Prof in Berlin |
-| | 30| Input  | |  | Prof in Berlin |
+| | 30| Audio (Guest: Maribeth Gandy)  | |  | Prof in Berlin |
 |5|Feb 4| Interaction Techniques | |  |   |
 | | 6| Implementing Interaction Techniques | |  |   |
 |6| Feb 11| Selection / Manipulation | | | |
