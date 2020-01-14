@@ -10,12 +10,12 @@ classes: wide
 Blair MacIntyre (blair@gatech.edu), Office: TSRB 231
 
 Office Hours:
-- Tue 1:30-2:30 (after class)
+- Tue 1:30-2:30 and Wednesdays 12-1
   - Office (TSRB 231)
 - Online occasionally in the evening 
   - In Teams, possibly in VR
 
 ## TAs
-- _none yet_
+- Nadia Fereydooni.  TBA.
   
 Office Hours and locations for TAs are posted on the front page of Canvas.
