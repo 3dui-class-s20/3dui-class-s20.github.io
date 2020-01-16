@@ -16,6 +16,6 @@ Office Hours:
   - In Teams, possibly in VR
 
 ## TAs
-- Nadia Fereydooni.  TBA.
+- Nadia Fereydooni.  
+  - Office hours:  Monday and Wednesday 3-4, TSRB 2nd floor lounge.
   
-Office Hours and locations for TAs are posted on the front page of Canvas.
