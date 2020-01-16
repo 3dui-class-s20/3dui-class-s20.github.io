@@ -21,7 +21,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |1|Jan 7|Introduction to Class, [1-intro](/files/1-Introduction.pdf)| **VR pp 5-27**, **3DUI Ch 1**  | Pre-Req Collaboration Policy, Survey 1|  |
 | | 9| Git, Typescript, Babylon, A0 | **VR pp 28-58**, **3DUI Ch 2** | [A0: Intro, out](https://github.com/3dui-class/s20-a0)  | |
 |2| Jan 14 | _no class (prof sick)_  |  |  | |
-| | 16 | History, Hardware|  | A0: in | |
+| | 16 | History, Hardware, [1-history](/files/2-history.pdf)|  | A0: in | |
 |3|Jan 21| 3D UI Software Organization|  |A1:out | |
 | | 23| 3D UI Software Organization |  | | |
 |4|Jan 28| Output: Toolkits, Platforms  | |  | Prof in Berlin |
