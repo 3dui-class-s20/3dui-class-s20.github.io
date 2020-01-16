@@ -1,8 +1,4 @@
 main:
-- title: Instructors
-  url: /instructors/
-  excerpt: Instructors and TAs
-  image: /assets/images/shark-table-360x240.png 
 - title: Syllabus
   url: /syllabus/
   excerpt: Details you need to know
@@ -11,10 +7,6 @@ main:
   url: /schedule/
   excerpt: Schedule for the class
   image: /assets/images/schedule-teaser-360x240.png
-- title: Project
-  url: /project/
-  excerpt: Project Information
-  image: /assets/images/puppy-logo-120x120.png
 - title: Github
   url: https://github.com/3dui-class/
   excerpt: Source code repository for the site
@@ -32,14 +24,21 @@ side:
         url: https://gtvault.sharepoint.com/sites/3DUISpring2020/SiteAssets/3DUI%20Spring%202020%20Notebook
       - title: Teams
         url: https://teams.microsoft.com/_#/school//?ctx=teamsGrid
+      - title: Papers and Readings
+        url: /readings/
   - title: Site Links
     children:
       - title: All Posts
         url: /posts/
       - title: Announcements
         url: /categories/#announcements
-      - title: Assignments
-        url: /categories/#assignmnets
+  - title: Assignments
+    url: /categories/#assignmnets
+  - title: Project
+    children:
+      - title: Project Details
+        url: /project/
+      - title: Project Ideas
+        url: /project-ideas/
       - title: Papers and Readings
         url: /readings/
-  - 
