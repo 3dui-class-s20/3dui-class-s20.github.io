@@ -89,7 +89,7 @@ Before students start working on their projects they will need to provide docume
 
 Students will have three weeks (at the beginning of the semester) to complete the IRB training and submit their certificates (PDF) through Canvas (see the [project page](/project) for more information).
 
-The CITI IRB online training can be accessed through: http://researchintegrity.gatech.edu/about-irb/irb-required-training and should not take longer than two hours to complete. Students who already have valid, that is not expired, certificates for the aforementioned courses can submit their certificates directly.
+The CITI IRB online training can be accessed through [GT's Research Integrity site](http://researchintegrity.gatech.edu/about-irb/irb-required-training) and should not take longer than two hours to complete. Students who already have valid, that is not expired, certificates for the aforementioned courses can submit their certificates directly.
 
 Important: Without valid CITI certification students cannot work on their projects and as such will not be able to fulfill the requirements of all project-related assignments!
 
@@ -106,11 +106,11 @@ A good portion of the learning in any upper level or graduate class comes from i
 Throughout the semester, I will give pop quizzes on the readings or activities we do in class, or do other in-class activities (possibly including programming).  These will be graded and factored into the 5% quizzes part of the grade.
 
 # 10. Accommodations for Students with Disabilities
-If you are a student with learning needs that require special accommodation, contact the Office of Disability Services at (404)894-2563 or http://disabilityservices.gatech.edu/, as soon as possible, to make an appointment to discuss your special needs and to obtain an accommodations letter. Please also e-mail me as soon as possible in order to set up a time to discuss your learning needs.
+If you are a student with learning needs that require special accommodation, contact the [Office of Disability Services](http://disabilityservices.gatech.edu/) (via web or at (404)894-2563), as soon as possible, to make an appointment to discuss your special needs and to obtain an accommodations letter. Please also e-mail me as soon as possible in order to set up a time to discuss your learning needs.
 
 # 11. Anti-Harassment Policy
 
-We will implement a strict anti-harassment, zero tolerance policy in line with the institution’s general anti harassment policy as it is defined here: http://titleix.gatech.edu/anti-harassment-policy.
+We will implement a strict anti-harassment, zero tolerance policy in line with the institution’s general anti harassment policy as it is defined [here](http://titleix.gatech.edu/anti-harassment-policy).
 
 # 12. Academic Integrity, Collaboration and Web Resources
 
