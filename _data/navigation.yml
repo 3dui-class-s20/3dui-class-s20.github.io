@@ -24,17 +24,16 @@ side:
         url: https://gtvault.sharepoint.com/sites/3DUISpring2020/SiteAssets/3DUI%20Spring%202020%20Notebook
       - title: Teams
         url: https://teams.microsoft.com/_#/school//?ctx=teamsGrid
-      - title: Papers and Readings
-        url: /readings/
-  - title: Site Links
+  - title: Post Links
     children:
       - title: All Posts
         url: /posts/
       - title: Announcements
         url: /categories/#announcements
-  - title: Assignments
-    url: /categories/#assignmnets
+      - title: Assignments
+        url: /categories/#assignmnets
   - title: Project
+    url: /project/
     children:
       - title: Project Details
         url: /project/
