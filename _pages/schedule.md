@@ -19,36 +19,36 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |Week|Date|Topic|Readings|Assignments|Notes|
 |:--:|---:|:-----|:----|:----|
 |1|Jan 7|Introduction to Class, [1-intro](/files/1-Introduction.pdf)| **VR pp 5-27**, **3DUI Ch 1**  | Pre-Req Collaboration Policy, Survey 1|  |
-| | 9| Git, Typescript, Babylong, A0 | **VR pp 28-58**, **3DUI Ch 2** | [A0: Intro, out](https://github.com/3dui-class/s20-a0)  | |
-|2| Jan 14 | History, Hardware  |  |  | |
-| | 16 | 3D UI Software Organization |  |  | |
-|3|Jan 21| Output: Toolkits, Platforms|  | | |
-| | 23| Output: Toolkits, Platforms |  | | |
-|4|Jan 28| Input  | |  | Prof in Berlin |
+| | 9| Git, Typescript, Babylon, A0 | **VR pp 28-58**, **3DUI Ch 2** | [A0: Intro, out](https://github.com/3dui-class/s20-a0)  | |
+|2| Jan 14 | _no class (prof sick)_  |  |  | |
+| | 16 | History, Hardware|  | A0: in | |
+|3|Jan 21| 3D UI Software Organization|  |A1:out | |
+| | 23| 3D UI Software Organization |  | | |
+|4|Jan 28| Output: Toolkits, Platforms  | |  | Prof in Berlin |
 | | 30| Audio (Guest: Maribeth Gandy)  | |  | Prof in Berlin |
-|5|Feb 4| Interaction Techniques | |  |   |
-| | 6| Implementing Interaction Techniques | |  |   |
-|6| Feb 11| Selection / Manipulation | | | |
-| | 13 |  Selection / Manipulation | | | |
-|7| Feb 18| _midterm review_ (and overflow)|  | | |
-| |  20|| **Midterm Test**|  | | |
-|8|Feb 25| Spatial Perception | | | |
-| | 27| Spatial Perception | | | |
-|9|Mar 3| Navigation | |  | |
+|5|Feb 4|  Output: Toolkits, Platforms| | A1: in, Project Milestone 0 |   |
+| | 6| Input | | A2: out |   |
+|6| Feb 11| Input | | | |
+| | 13 |  Interaction Techniquesa | | | |
+|7| Feb 18| Implementing Interaction Techniques|  |Project Milestone 1 | |
+| |  20|| Selection / Manipulation|  | | |
+|8|Feb 25| Selection / Manipulation | |A2: in, A3: out | |
+| | 27| **Midterm Test**|  | | |
+|9|Mar 3| Spatial Perception | |  | |
 | | 5| Navigation | | |_last day before withdrawal deadline_ |
-|10|Mar 10| System Control | | ||
-| | 12|  System Control | | | |
+|10|Mar 10| Navigation /System Control | | ||
+| | 12|  System Control | |A3: in | |
 |11|Mar 17| **Spring Break**| | | |
 | | 19| **Spring Break**| | | | 
-|12|Mar 24| _Attend IEEE VR 2020 talks in VR (Hubs)_ |  |  | |
-| | 26| _Attend IEEE VR 2020 talks in VR (Hubs)_|  | | |
-|13|Mar 31| Natural Interaction, Gesture, Haptics| |  | |
+|12|Mar 24| _Attend IEEE VR 2020 talks in VR (Hubs)_ |  |  | Prof running VR |
+| | 26| _Attend IEEE VR 2020 talks in VR (Hubs)_|  | | Prof running VR|
+|13|Mar 31|Collaborative Interfaces| |  | |
 | | Apr 2| Speech and Multimodal | | | |
-|14|Apr 7| Collaborative Interfaces | | | |
+|14|Apr 7|  Natural Interaction, Gesture, Haptics | | Project Milestone 2 | |
 | | 9| **TBD** | | | |
-|15|Apr 14| Grad Project Presentations | | | |
-| | 16| Grad Project Presentations | | | |
-|16|Apr 21| _final review_ | | | |
+|15|Apr 14| Grad Project Presentations | | _(Project Milestone 3)_ | |
+| | 16| Grad Project Presentations | | _(Project Milestone 3)_ | |
+|16|Apr 21| _final review_ | | Project Milestone 4 | |
 | | 23 | _reading period, no class_ | | | |
 |17|Apr 27| **FINAL EXAM** on Monday April 27 |11:20 - 2:10 | |
 
