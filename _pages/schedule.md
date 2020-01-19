@@ -31,7 +31,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |6| Feb 11| Input | | | |
 | | 13 |  Interaction Techniquesa | | | |
 |7| Feb 18| Implementing Interaction Techniques|  |Project Milestone 1 | |
-| |  20|| Selection / Manipulation|  | | |
+| |  20|  Selection / Manipulation|  | | |
 |8|Feb 25| Selection / Manipulation | |A2: in, A3: out | |
 | | 27| **Midterm Test**|  | | |
 |9|Mar 3| Spatial Perception | |  | |
