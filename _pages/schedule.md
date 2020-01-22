@@ -22,14 +22,14 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | | 9| Git, Typescript, Babylon, A0 | **VR pp 28-58**, **3DUI Ch 2** | [A0: Intro, out](https://github.com/3dui-class/s20-a0)  | |
 |2| Jan 14 | _no class (prof sick)_  |  |  | |
 | | 16 | History, Hardware, [2-history](/files/2-history.pdf)|  | A0: in | |
-|3|Jan 21| 3D UI Software Organization|[3-UI_Software_Org](/files/3-UI_Software_Org.pdf)  | | |
-| | 23| 3D UI Software Organization |  | A1:out| |
-|4|Jan 28| Output: Toolkits, Platforms  | |  | Prof in Berlin |
+|3|Jan 21| 1 Minute Pitches, project discussion|  | | |
+| | 23| 3D UI Software Organization |[3-UI_Software_Org](/files/3-UI_Software_Org.pdf)| A1:out| |
+|4|Jan 28|  _no class_  | |  | Prof in Berlin |
 | | 30| Audio (Guest: Maribeth Gandy)  | |  | Prof in Berlin |
 |5|Feb 4|  Output: Toolkits, Platforms| | Project Milestone 0 |   |
 | | 6| Input | |A1: in, A2: out |   |
 |6| Feb 11| Input | | | |
-| | 13 |  Interaction Techniquesa | | | |
+| | 13 |  Interaction Techniques | | | |
 |7| Feb 18| Implementing Interaction Techniques|  |Project Milestone 1 | |
 | |  20|  Selection / Manipulation|  | | |
 |8|Feb 25| Selection / Manipulation | |A2: in, A3: out | |
