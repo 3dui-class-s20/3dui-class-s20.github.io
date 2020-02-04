@@ -26,7 +26,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | | 23| 3D UI Software Organization |[3-UI_Software_Org](/files/3-UI_Software_Org.pdf)| A1:out| |
 |4|Jan 28|  _no class_  | |  | Prof in Berlin |
 | | 30| Audio (Guest: Maribeth Gandy)  | |  | Prof in Berlin |
-|5|Feb 4|  Output: Toolkits, Platforms| **3DUI Ch 5.2, 5.5**| Project Milestone 0 |   |
+|5|Feb 4|  Output: Systems, Toolkits, Platforms| **3DUI Ch 5.2, 5.5**| Project Milestone 0 |   |
 | | 6| Input | **3DUI Ch 6.1, 6.3-6.3.1**|A1: in, A2: out |   |
 |6| Feb 11| Input | | | |
 | | 13 |  Interaction Techniques | | | |
