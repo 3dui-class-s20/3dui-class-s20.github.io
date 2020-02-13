@@ -29,7 +29,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |5|Feb 4|  Output: Systems, Toolkits, Platforms| **3DUI Ch 5.2, 5.5**, [4-Output Software](/files/4-Output_Software.pdf)| Project Milestone 0 |   |
 | | 6| _hand out quests_ | |A1: in, A2: out (Friday 7th, 11:59pm) |   |
 |6| Feb 11| _in class work with Quests_ | | | |
-| | 13 |  Input |**3DUI Ch 6.1, 6.3-6.3.1** | | |
+| | 13 |  Input |**3DUI Ch 6.1, 6.3-6.3.1** | [5-Input](/files/5-Input.pdf)| |
 |7| Feb 18|Interaction Techniques |  |Project Milestone 1 | |
 | |  20| Implementing Interaction Techniques |  | | |
 |8|Feb 25| Selection / Manipulation | |A2: in, A3: out | |
