@@ -30,8 +30,8 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | | 6| _hand out quests_ | |A1: in, A2: out (Friday 7th, 11:59pm) |   |
 |6| Feb 11| _in class work with Quests_ | | | |
 | | 13 |  Input |**3DUI Ch 6.1, 6.3-6.3.1** | [5-Input](/files/5-Input.pdf)| |
-|7| Feb 18|Interaction Techniques |  |Project Milestone 1 | |
-| |  20| Implementing Interaction Techniques |  | | |
+|7| Feb 18|Interaction Techniques | **Game Feel Ch1**, [6-InteractionTechniques.pdf](/files/6-InteractionTechniques.pdf) | | |
+| |  20| Implementing Interaction Techniques | | Project Milestone 1| |
 |8|Feb 25| Selection / Manipulation | |A2: in, A3: out | |
 | | 27| **Midterm Test**|  | | |
 |9|Mar 3| Spatial Perception | |  | |
