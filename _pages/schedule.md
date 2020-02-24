@@ -32,11 +32,11 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | | 13 |  Input |**3DUI Ch 6.1, 6.3-6.3.1** | [5-Input](/files/5-Input.pdf)| |
 |7| Feb 18|Interaction Techniques | **Game Feel Ch1**, [6-InteractionTechniques.pdf](/files/6-InteractionTechniques.pdf) | | |
 | |  20| Implementing Interaction Techniques | | Project Milestone 1| |
-|8|Feb 25| Selection / Manipulation | |A2: in, A3: out | |
+|8|Feb 25| Selection / Manipulation | **3DUI Ch 7**|A2: in, A3: out | |
 | | 27| **Midterm Test**|  | | |
-|9|Mar 3| Spatial Perception | |  | |
-| | 5| Navigation | | |_last day before withdrawal deadline_ |
-|10|Mar 10| Navigation /System Control | | ||
+|9|Mar 3| Spatial Perception | **3DUI Ch 3.3-3.7**|  | |
+| | 5| Navigation |**3DUI Ch 8** | |_last day before withdrawal deadline_ |
+|10|Mar 10| Navigation /System Control | **3DUI Ch 9**| ||
 | | 12|  System Control | |A3: in | |
 |11|Mar 17| **Spring Break**| | | |
 | | 19| **Spring Break**| | | | 
