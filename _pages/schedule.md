@@ -35,17 +35,17 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |8|Feb 25| Selection / Manipulation | **3DUI Ch 7**, [8-selectionManipulation.pdf](/files/8-selectionManipulation.pdf)|A2: in, A3: out | |
 | | 27| **Midterm Test**|  | | |
 |9|Mar 3| Spatial Perception | **3DUI Ch 3.3-3.7**|  | |
-| | 5| Navigation |**3DUI Ch 8** | |_last day before withdrawal deadline_ |
-|10|Mar 10| Navigation /System Control | **3DUI Ch 9**| ||
-| | 12|  System Control | |A3: in | |
+| | 5| *VR apps demo period* | | |_last day before withdrawal deadline_ |
+|10|Mar 10| Navigation  | **3DUI Ch 8**| | |
+| | 12| *VR apps demo period* | |A3: in | |
 |11|Mar 17| **Spring Break**| | | |
 | | 19| **Spring Break**| | | | 
 |12|Mar 24| _Attend IEEE VR 2020 talks in VR (Hubs)_ |  |  | Prof running VR |
 | | 26| _Attend IEEE VR 2020 talks in VR (Hubs)_|  | | Prof running VR|
-|13|Mar 31|Collaborative Interfaces| |  | |
+|13|Mar 31| System Control | **3DUI Ch 9** |  | |
 | | Apr 2| Speech and Multimodal | | | |
 |14|Apr 7|  Natural Interaction, Gesture, Haptics | | Project Milestone 2 | |
-| | 9| **TBD** | | | |
+| | 9| Collaborative Interfaces | | | |
 |15|Apr 14| Grad Project Presentations | | _(Project Milestone 3)_ | |
 | | 16| Grad Project Presentations | | _(Project Milestone 3)_ | |
 |16|Apr 21| _final review_ | | Project Milestone 4 | |
