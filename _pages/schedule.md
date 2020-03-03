@@ -34,8 +34,8 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | |  20| Implementing Interaction Techniques |[7-ImplementingInteractionTechniques.pdf](/files/7-ImplementingInteractionTechniques.pdf) | Project Milestone 1| |
 |8|Feb 25| Selection / Manipulation | **3DUI Ch 7**, [8-selectionManipulation.pdf](/files/8-selectionManipulation.pdf)|A2: in, A3: out | |
 | | 27| **Midterm Test**|  | | |
-|9|Mar 3| Spatial Perception | **3DUI Ch 3.3-3.7**|  | |
-| | 5| *VR apps demo period* | | |_last day before withdrawal deadline_ |
+|9|Mar 3|  *VR apps demo period* | | |_last day before withdrawal deadline_ |
+| | 5|Spatial Perception | **3DUI Ch 3.3-3.7**|  | |
 |10|Mar 10| Navigation  | **3DUI Ch 8**| | |
 | | 12| *VR apps demo period* | |A3: in | |
 |11|Mar 17| **Spring Break**| | | |
