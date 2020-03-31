@@ -35,21 +35,21 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |8|Feb 25| Selection / Manipulation | **3DUI Ch 7**, [8-selectionManipulation.pdf](/files/8-selectionManipulation.pdf)|A2: in | |
 | | 27| **Midterm Test**|  | | |
 |9|Mar 3|  *VR apps demo period* | | A3: out |_last day before withdrawal deadline_ |
-| | 5|Spatial Perception | **3DUI Ch 3.3-3.7**|  | |
-|10|Mar 10| Navigation  | **3DUI Ch 8**| | |
+| | 5|Spatial Perception | **3DUI Ch 3.3-3.7**, [9-Perception.pdf](/files/9-Perception.pdf)|  | |
+|10|Mar 10| Navigation  | **3DUI Ch 8**, [10-Travel.pdf](/files/10-Travel.pdf)| | |
 | | 12| *VR apps demo period* | | | |
 |11|Mar 17| **Spring Break**| | | |
 | | 19| **Spring Break**| | | | 
 |12|Mar 24| _Attend IEEE VR 2020 talks in VR (Hubs)_ |  |  | Prof running VR |
 | | 26| _Attend IEEE VR 2020 talks in VR (Hubs)_|  | | Prof running VR|
-|13|Mar 31| System Control | **3DUI Ch 9** | A3: in | |
-| | Apr 2| _Tour and discussion of IEEEVR spaces_ | | | |
+|13|Mar 31| System Control | **3DUI Ch 9**, [11-SystemControl.pdf](/files/11-SystemControl.pdf) |  | |
+| | Apr 2| _Tour and discussion of IEEEVR spaces_ | | A3: in| |
 |14|Apr 7|  project work | |  | |
-| | 9| project work | | Project Milestone 2| |
-|15|Apr 14| Grad Project Presentations | | _(Project Milestone 3)_ | |
-| | 16| Grad Project Presentations | | _(Project Milestone 3)_ | |
-|16|Apr 21| _final review_ | | Project Milestone 4 | |
+| | 9| project work | | | |
+|15|Apr 14| project feedback (schedule) | |  | |
+| | 16| project work (schedule) | | Project Milestone 2 | |
+|16|Apr 21| _final review_ | | Project Milestone 3 | |
 | | 23 | _reading period, no class_ | | | |
-|17|Apr 27| **FINAL EXAM** on Monday April 27 |11:20 - 2:10 | |
+|17|Apr 27| **FINAL EXAM Period** on Monday April 27, 11:20 - 2:10: Project Presentations |_(Project Milestone 4)_| |
 
 
