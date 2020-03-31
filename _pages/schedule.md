@@ -40,12 +40,12 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | | 12| *VR apps demo period* | | | |
 |11|Mar 17| **Spring Break**| | | |
 | | 19| **Spring Break**| | | | 
-|12|Mar 24| _Attend IEEE VR 2020 talks in VR (Hubs)_ |  | A3: in | Prof running VR |
+|12|Mar 24| _Attend IEEE VR 2020 talks in VR (Hubs)_ |  |  | Prof running VR |
 | | 26| _Attend IEEE VR 2020 talks in VR (Hubs)_|  | | Prof running VR|
-|13|Mar 31| System Control | **3DUI Ch 9** |  | |
-| | Apr 2| Speech and Multimodal | | | |
-|14|Apr 7|  Natural Interaction, Gesture, Haptics | | Project Milestone 2 | |
-| | 9| Collaborative Interfaces | | | |
+|13|Mar 31| System Control | **3DUI Ch 9** | A3: in | |
+| | Apr 2| _Tour and discussion of IEEEVR spaces_ | | | |
+|14|Apr 7|  project work | |  | |
+| | 9| project work | | Project Milestone 2| |
 |15|Apr 14| Grad Project Presentations | | _(Project Milestone 3)_ | |
 | | 16| Grad Project Presentations | | _(Project Milestone 3)_ | |
 |16|Apr 21| _final review_ | | Project Milestone 4 | |

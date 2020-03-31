@@ -57,7 +57,7 @@ Available via Science Direct [here](https://www.sciencedirect.com/book/978012800
 
 # 5. Grading
 
-Summary: 30% assignments, 45% project, 25% exams and quizzes.
+Summary: 30% assignments, 45% project, ~~25%~~ _15%_ exams and quizzes.  _Update March 30: Graded out of 90%_
 
 |Component|Grade|
 |:--------|----:|
@@ -65,11 +65,12 @@ Summary: 30% assignments, 45% project, 25% exams and quizzes.
 |Project (5 deliverables)|45%|
 |Quizzes and in class activities:|5%|
 |Midterm exam:| 10% |
-|Final exam:| 10%|
+|~~Final exam:~~| ~~10%~~|
 
 (see Attendance section below for information about in-class pop-quizzes and/or activities.)
 
-For final letter grades, an overall average of 90-100 will result in an A, between 80-89 a B, between 70-79 a C, between 60-69 a D.
+~~For final letter grades, an overall average of 90-100 will result in an A, between 80-89 a B, between 70-79 a C, between 60-69 a D.~~
+For final letter grades, an overall average of 80-90 will result in an A, between 70-79 a B, between 60-69 a C, between 50-59 a D.
 
 Students taking the class pass/fail must receive a C or better to pass. Students auditing the class will not be required to complete homework or exams (nor are they expected to do these assignments, so that the instructor and TAs can devote grading time to students taking the class for a letter grade or P/F).
 
