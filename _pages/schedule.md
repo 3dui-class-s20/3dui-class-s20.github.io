@@ -50,6 +50,6 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | | 16| project work | | Project Milestone 2 | |
 |16|Apr 21| _final review_ | | Project Milestone 3 | |
 | | 23 | _reading period, no class_ | | | |
-|17|Apr 27| **FINAL EXAM Period** on Monday April 27, 11:20 - 2:10: Project Presentations |_(Project Milestone 4)_| |
+|17|Apr 27| **FINAL EXAM Period** on Monday April 27, 11:20 - 2:10: Project Presentations |_(Project Milestone 4 due night before)_| |
 
 
