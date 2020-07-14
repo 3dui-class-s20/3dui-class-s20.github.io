@@ -8,7 +8,7 @@ permalink: /resources/
 
 I will be using a variety of technology to support various parts of running this class.
 
-We will use Github Classroom to distribute and collect assignments.  The github site is the [github.com/3dui-class](https://github.com/3dui-class) organization. Github classroom takes care of creating a private repository for each student when they check out an assignment, and the TAs and Instructor will be given access.  Github is also used for this site.
+We will use Github Classroom to distribute and collect assignments.  The github site is the [github.com/3dui-class-s20](https://github.com/3dui-class-s20) organization. Github classroom takes care of creating a private repository for each student when they check out an assignment, and the TAs and Instructor will be given access.  Github is also used for this site.
 
 Canvas will be used for posting grades, or for sharing other private content (such as the link to the discord server, below).  Most content will be shared here on github.
 

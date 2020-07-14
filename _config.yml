@@ -22,14 +22,14 @@ github_username: blairmacintyre
 github: [metadata]
 minimal_mistakes_skin: dark
 search: true
-repository: 3dui-class/3dui-class.github.io
+repository: 3dui-class-s20/3dui-class-s20.github.io
 breadcrumbs: true
 follow_label: "Follow Blair MacIntyre"
 name: "Blair MacIntyre, Georgia Tech"
 
 logo: /assets/images/puppy-logo-120x120.png # 120x120 px default image used for Twitter summary card
 teaser: /assets/images/shark-table-360x240.png # 400x250 px default teaser image used in image archive grid
-url: https://3dui-class.github.io
+url: https://3dui-class-s20.github.io
 #url: http://localhost:4000
 
 # Build settings
@@ -83,16 +83,16 @@ footer:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://3dui-class.github.io"
+      url: "https://3dui-class-s20.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/3dui-class/"
+      url: "https://github.com/3dui-class-s20/"
 
 comments:
   provider: "utterances"
   utterances:
     theme: "icy-dark"
-    issue_term: "3dui-class/3dui-class.github.io"
+    issue_term: "3dui-class-s20/3dui-class-s20.github.io"
 
 defaults:
   - values:

@@ -19,7 +19,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |Week|Date|Topic|Readings|Assignments|Notes|
 |:--:|---:|:-----|:----|:----|
 |1|Jan 7|Introduction to Class, [1-intro](/files/1-Introduction.pdf)| **VR pp 5-27**, **3DUI Ch 1**  | Pre-Req Collaboration Policy, Survey 1|  |
-| | 9| Git, Typescript, Babylon, A0 | | [A0: Intro, out](https://github.com/3dui-class/s20-a0)  | |
+| | 9| Git, Typescript, Babylon, A0 | | [A0: Intro, out](https://github.com/3dui-class-s20/s20-a0)  | |
 |2| Jan 14 | _no class (prof sick)_  |  |  | |
 | | 16 | History, Hardware, [2-history](/files/2-history.pdf)| **VR pp 28-58**, **3DUI Ch 2**  | A0: in | |
 |3|Jan 21| 1 Minute Pitches, project discussion|  | | |
